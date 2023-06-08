@@ -12,7 +12,6 @@ description: A Project Competition at SYMBIOSIS
 
 [Get the experience on the **Linkedin**](https://www.linkedin.com/posts/sahil-sawant-its-31aug_protechroboticscompetition-innovation-infrastructureinspectiondrone-activity-7065772911004950528-GyuT?utm_source=share&utm_medium=member_desktop)
 
-# Empowering Women through Technology: Our Journey at the Sanjay Ghodawat University Project Exhibition
 
 # 🌟🤖 Exciting Times at Symbiosis Institute of Technology's "Protech" Robotics Competition! 🚀🔬
 
