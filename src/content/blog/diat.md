@@ -1,6 +1,6 @@
 ---
 author: Samael
-pubDatetime: 2023-04-29T15:57:52.737Z
+pubDatetime: 2023-01-20T15:57:52.737Z
 title: Conference at Defence Institute of Advanced Technology
 postSlug: project-competition
 featured: false
