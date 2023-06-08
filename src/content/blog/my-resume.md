@@ -24,28 +24,12 @@ description:
 
 ### Dept. of Engineering, Sciences and Humanitites
   #### Vishwakarma Institute of Technology, Pune
-  
-  _**January' 2022 to June'2022**_
-  
-  **Courses:** Problem Solving and Data Structures, Engineering Maths, Robotics and Mechatronics, Mobile App Development, Cognitive Apptitude, Human Engineering
-  
-### Dept. of Multidesciplinary Engineering
-  #### Vishwakarma Institute of Technology, Pune
-  
-  _**January' 2023 to June'2023 **_ 
-  
-  **Courses:** Object Oriented Programming, Database Management Systems, Internet of Things, Data Science
+  January' 2022 to June' 2022
 
 ### Dept. of Electronics and Telecommunication Engineering
   #### Vishwakarma Institute of Technology, Pune
+  June' 2022 to **_Present_**
   
-  _**July' 2022 to December'2023 and**_
-  
-  **Courses:** Data Communication, Digital Systems, Industrial Electronics, DataStructures-n-Algorithms
-  
-  _**July' 2023 to _Present_**_
-  
-  **Courses:** Web Development, Operating Systems, Computer Organisationa and Architecture, Algorithm Design
 
 ## Skills
 - Python
