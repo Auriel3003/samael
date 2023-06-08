@@ -10,7 +10,7 @@ tags:
 description: A Project Competition at DIAT, DU, DRDO
 ---
 
-[Get the experience on the **Linkedin**](https://www.linkedin.com/posts/sahil-sawant-its-31aug_protechroboticscompetition-innovation-infrastructureinspectiondrone-activity-7065772911004950528-GyuT?utm_source=share&utm_medium=member_desktop)
+[Get the experience on the **Linkedin**](https://www.linkedin.com/posts/sahil-sawant-its-31aug_technology-opportunity-experience-activity-7065710326343725056-mpii?utm_source=share&utm_medium=member_desktop)
 
 # 🎉📚 Sharing my Incredible Experience at the DIAT Conference: Empowering Mobility! 🚀🎓
 
