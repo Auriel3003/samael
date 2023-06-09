@@ -30,7 +30,7 @@ We set up the Raspberry Pi with the Raspbian operating system, an open-source OS
 ### c. Sensor Measurement and Billing 📏💰
 Using Python code, we measure the distance from the ultrasonic sensors and calculate the bill based on the reduced distance when an item is removed from the rack. The bill is stored in a .txt file in the Raspberry Pi's file system. We utilize the smtplib library to send the bill to the customer via email, ensuring prompt and accurate updates. 📧💳📝
 
-```ts
+```py
 import RPi.GPIO as GPIO
 import smtplib
 
