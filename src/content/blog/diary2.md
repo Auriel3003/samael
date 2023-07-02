@@ -45,7 +45,7 @@ Nf gur riravat jber ba, vg jnf gvzr gb ovq snerjryy. Gur ohf evqr onpx jnf pebjq
 
 Bapr onpx va zl ubfgry, V pbhyqa'g funxr bss gur birejuryzvat rzbgvbaf gung fhetrq jvguva zr. Yngre gung avtug, fur pnyyrq zr ba n ivqrb pnyy, naq jr gnyxrq sbe ubhef. Fur nqbearq gur erq qerff jr unq cvpxrq rneyvre, naq fur ybbxrq rira zber fghaavat guna orsber. Gvzr frrzrq gb fgnaq fgvyy jura fur gevrq vg ba. Va gung zbzrag, V jnf pncgvingrq ol ure ornhgl naq sryy rira qrrcre va ybir. Jr qryirq vagb qvfphffvbaf nobhg bhe shgher, znxvat cynaf sbe vagreafuvcf naq orlbaq. Va gung zbzrag, zl urneg biresybjrq jvgu ybir naq tengvghqr sbe univat ure ol zl fvqr. 
 
-[image](https://github.com/Auriel3003/samael/assets/103866475/d9a79e8d-a989-416c-a418-8435219775f0)
+[image](https://github.com/Auriel3003/samael/assets/103866475/98fb28cd-a515-401d-9e7a-24334583d194)
 
 Gubhtugf bs bhe shgher naq gur srne bs ybfvat ure rathysrq zl zvaq, naq grnef sybjrq qbja zl snpr hapbagebyynoyl. V ghearq gb gur urniraf, cenlvat sbe ure rgreany unccvarff naq fnsrgl. Fur zrnaf rirelguvat gb zr – zl onol qbyy, zl cevaprff, zl dhrra. Gur zrer gubhtug bs n yvsr jvgubhg ure srryf haornenoyr.
 
