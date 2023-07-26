@@ -40,3 +40,10 @@ As we move forward, I eagerly anticipate more such informative and inspiring eve
 
 *Let's keep reaching for the stars together, for the universe has so much more to reveal.*
 
+![IMG-20230224-WA0004](https://github.com/Auriel3003/samael/assets/103866475/ef990488-2b05-4d6e-b684-2e8827aa7db6)
+
+![IMG-20230224-WA0011](https://github.com/Auriel3003/samael/assets/103866475/0701c53a-7a9e-4a47-8c26-187db27128af)
+![IMG-20230224-WA0039](https://github.com/Auriel3003/samael/assets/103866475/d92241a6-3e17-404d-92f1-b502bc8c3329)
+![IMG_1281](https://github.com/Auriel3003/samael/assets/103866475/a46f8e29-d3ef-47af-991f-ce2a07a0a54a)
+![IMG_20230224_181213](https://github.com/Auriel3003/samael/assets/103866475/33a20172-f201-418e-b06b-e36c629392ec)
+![WhatsApp Image 2023-07-07 at 2 30 01 PM](https://github.com/Auriel3003/samael/assets/103866475/3b69a3ba-5935-428e-b058-9fc9fe528f17)
