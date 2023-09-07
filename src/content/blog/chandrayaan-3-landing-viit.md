@@ -1,13 +1,13 @@
 ---
 author: Samael
-pubDatetime: 2023-08-23T15:57:52.737Z
+pubDatetime: 2023-08-23T17:57:52.737Z
 title: Chandrayaan-3 Landing at VIIT
-postSlug: chandrayaan3
+postSlug: chandrayaan3landingmumbai
 featured: false
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - Antariksh
-description: Chandrayaan-3 land
+description: Chandrayaan-3 Landing at Mumbai
 ---
 
 
