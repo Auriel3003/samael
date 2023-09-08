@@ -10,9 +10,12 @@ tags:
 description: The Enigmatic Dance of Hacktivism and Cybersecurity
 ---
 
-The Enigmatic Dance of Hacktivism and Cybersecurity
+# The Enigmatic Dance of Hacktivism and Cybersecurity
 
 In the tumultuous digital landscape, where the boundaries between reality and virtuality blur, the relentless battle between **hacktivism** and cybersecurity unfolds—a saga interwoven with the enigmatic personalities of Elliot Alderson from **Mr. Robot** and Ken Kaneki from **Tokyo Ghoul**. As I traverse this treacherous realm, I find myself embracing the dark and morally ambiguous dance between the two, questioning the essence of my actions. In this elaborate exploration, we delve into the high-stakes game of cat and mouse that transcends both worlds, as hacktivists and cybersecurity experts collide in a clash of ideals and tactics. 💻🌐🦹‍♂️
+
+![image](https://github.com/Auriel3003/samael/assets/103866475/191376c8-6a6d-4182-ad74-e7d5fbc8cc4f)
+
 
 ### {The Rise of Hacktivism} 🌟
 
