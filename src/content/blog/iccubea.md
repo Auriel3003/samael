@@ -10,6 +10,8 @@ tags:
 description: Empowering Lives with Smart SOS Technology
 ---
 
+[Get the experience on the **Linkedin**](https://www.linkedin.com/posts/sahil-sawant-its-31aug_iccubea2023-technology-innovation-activity-7098938791746277377-njev?utm_source=share&utm_medium=member_desktop)
+
 # A Journey from Idea to Reality, Presented at ICCUBEA PUNE-2023
 
 🌟 **Breaking News: Innovating for Safety - One Device, Countless Possibilities 🌟**
@@ -37,5 +39,12 @@ These questions have added a new dimension to our project, prompting us to consi
 I'd like to express my heartfelt gratitude to **ICCUBEA PUNE-2023** for this fantastic opportunity and the thoughtful Conference Kit, which includes a calendar, notepad, Luxor Pen, school bag adorned with ICCUBEA and PCCOEP branding, delegate ID, and certificate. 📅📝👜🏅
 
 This journey has been nothing short of incredible, and I am thrilled to continue pushing the boundaries of technology and personal safety. To my friends, family, mentors, and everyone who has supported us on this path, your encouragement means the world to me. 🌍🙌
+
+![image](https://github.com/Auriel3003/samael/assets/103866475/ed006e8c-2f4e-4bf8-a356-fec58058b538)
+
+![image](https://github.com/Auriel3003/samael/assets/103866475/0b330bdb-270c-4ce4-b0ec-5046500da87f)
+
+![image](https://github.com/Auriel3003/samael/assets/103866475/7e006610-0cdf-41c1-8cd0-f060b758f1b8)
+
 
 Let us persist in our quest for innovation and continue making a positive impact together! 💪🌐🚀🔥
