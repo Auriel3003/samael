@@ -20,6 +20,9 @@ I am absolutely thrilled to take you on an exhilarating journey through the "Sta
 
 🌟 **The Ideation Round:** Our journey began with the Ideation Round, where my remarkable colleagues, **Chanchal Rathad**, **Sumitkumar Chandanshive**, and I, **Sahil Sawant**, introduced our visionary project - an **Inventory Management and Monitoring System**. Our goal? To transform the way stock management is done, simplify billing processes, and ensure real-time environmental monitoring for a more sustainable world. 📊
 
+![image](https://github.com/Auriel3003/samael/assets/103866475/5816dd17-7c5f-48dd-a277-8cf955bc46d0)
+
+
 📊 **The Presentation Round:** From August 12th to 14th, we embarked on the Presentation Round, where we skillfully presented our project's immense potential to the world through a dynamic and captivating PowerPoint presentation. This phase played a pivotal role in showcasing the power and promise of our project. 🔧
 
 🔧 **The Implementation Round:** In the final stretch, spanning from August 14th to 16th, we transformed our vision into a tangible reality. With unwavering determination, we meticulously constructed a prototype that consisted of three interconnected sub-models:
@@ -30,9 +33,14 @@ I am absolutely thrilled to take you on an exhilarating journey through the "Sta
    
 3. **Billing System**: Equipped with inventory scanning capabilities and automated billing to customers, this sub-model promised to streamline billing processes like never before.
 
+![image](https://github.com/Auriel3003/samael/assets/103866475/80fa8c0a-10b3-48e3-bf61-e3b1ccc0fc8e)
+
 🇮🇳 **Celebrating Independence Day:** While diligently working on our project, we also celebrated the spirit of independence, infusing our journey with a sense of patriotism and camaraderie. It made our journey even more memorable! 🙏
 
 I extend my heartfelt gratitude to **Dr. Sangita Kurundkar madam** and the dedicated faculty at **Vishwakarma Institute Of Technology** for their unwavering support and mentorship throughout this exhilarating journey. 🎓
+
+![image](https://github.com/Auriel3003/samael/assets/103866475/a65bcd96-dc33-41ce-903a-1267b4bfbd9e)
+
 
 Special thanks are due to my friends, **SHAIKH TAYYAB**, **Bhavya Shah**, **Sandesh Bagmare**, and **Samiksha Gurakhe**, who contributed their expertise and perspectives, propelling our project to greater heights through their invaluable insights and collaboration. 🤝
 
