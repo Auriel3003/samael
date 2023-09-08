@@ -7,7 +7,7 @@ featured: false
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - project-competition
-description: From Idea to Innovation
+description: A Project Competition by IIT-Madras
 ---
 
 [Read more about the Hackathon here: _**LinkedIN**_](https://www.linkedin.com/posts/sahil-sawant-its-31aug_startathon-innovation-entrepreneurship-activity-7099081392419995648-475T?utm_source=share&utm_medium=member_desktop)
