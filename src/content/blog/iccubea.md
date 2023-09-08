@@ -1,13 +1,13 @@
 ---
 author: Samael
 pubDatetime: 2023-08-20T09:42:52.737Z
-title: Innovating for Safety at ICCUBEA'23
+title: Innovating for Safety at ICCUBEA23
 postSlug: iccubea-conf
 featured: false
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - project-competition
-description: Empowering Lives with Smart SOS Technology
+description: ICCUBEA Conferece orgnised by PCCOE Pune
 ---
 
 [Get the experience on the **Linkedin**](https://www.linkedin.com/posts/sahil-sawant-its-31aug_iccubea2023-technology-innovation-activity-7098938791746277377-njev?utm_source=share&utm_medium=member_desktop)
