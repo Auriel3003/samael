@@ -43,3 +43,72 @@ As a **hacktivist**, I embody the essence of Elliot's persona, grappling with th
 In this fusion of **Tokyo Ghoul** and **Mr. Robot**, the relentless dance between **hacktivists** and cybersecurity experts embodies the enigmatic essence of Kaneki and Elliot. My journey transcends the realms of **hacktivism** and cybersecurity, embracing the transformative power of Kaneki's metamorphosis and the eternal struggle between order and chaos.
 
 As I unleash my inner Elliot in this **Tokyo Ghoul** world, I uncover the multifaceted nature of **HACKTIVISM**—a powerful tool for societal change and a double-edged sword that demands introspection. The clash of ideals and tactics propels me forward in this saga, reflecting the timeless battle between dark and light in a digital frontier fraught with uncertainty. In the end, it is the exploration of my inner self that leads me to discover the true essence of **hacktivism**—both a force of change and a reflection of the enigmatic personas that define this digital battleground. 🔍🕵️‍♂️💥
+
+##PSEUDOCODE :
+
+```py
+class Person
+    def __init__(self, name):
+        self.name = name
+        self.hacktivist_identity = None
+        self.cybersecurity_expert_identity = None
+
+    def become_hacktivist(self):
+        self.hacktivist_identity = True
+
+    def become_cybersecurity_expert(self):
+        self.cybersecurity_expert_identity = True
+
+class Hacktivist:
+    def __init__(self, name):
+        self.name = name
+        self.identity = "Hacktivist"
+        self.anonymity = True
+        self.passion_for_social_change = True
+
+    def utilize_skills(self):
+        self.exploit_vulnerabilities()
+        self.hide_tracks()
+
+class CybersecurityExpert:
+    def __init__(self, name):
+        self.name = name
+        self.identity = "Cybersecurity Expert"
+        self.diligence = True
+        self.protect_integrity = True
+
+    def defend_system(self):
+        self.patrol_digital_realm()
+        self_deploy_security_measures()
+
+# Main script
+if __name__ == "__main__":
+    protagonist = Person("Protagonist")
+
+    # Unleash inner Elliot
+    protagonist.become_hacktivist()
+    protagonist.hacktivist_identity = Hacktivist(protagonist.name)
+
+    # Confront the enigmatic Mr. Robot
+    protagonist.become_cybersecurity_expert()
+    protagonist.cybersecurity_expert_identity = CybersecurityExpert(protagonist.name)
+
+    # The cat and mouse game begins
+    while protagonist.hacktivist_identity.anonymity and protagonist.cybersecurity_expert_identity.diligence:
+        protagonist.hacktivist_identity.utilize_skills()
+        protagonist.cybersecurity_expert_identity.defend_system()
+
+        # Internal conflict
+        if protagonist.hacktivist_identity.exploit_vulnerabilities and protagonist.cybersecurity_expert_identity.patrol_digital_realm:
+            protagonist.internal_struggle()
+
+    # Discover the transformative power of hacktivism
+    protagonist.hacktivist_identity.passion_for_social_change = True
+
+    # Embrace the duality of hacktivism and cybersecurity
+    protagonist.hacktivist_identity.blurred_lines()
+    protagonist.cybersecurity_expert_identity.blurred_lines()
+
+    # Unravel the essence of the digital frontier
+    protagonist.explore_inner_self()
+```
