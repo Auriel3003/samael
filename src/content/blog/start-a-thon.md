@@ -37,7 +37,9 @@ From August 12th to 14th, we embarked on the Presentation Round, where we skillf
 
 ![image](https://github.com/Auriel3003/samael/assets/103866475/80fa8c0a-10b3-48e3-bf61-e3b1ccc0fc8e)
 
-## 🇮🇳 **Celebrating Independence Day:** While diligently working on our project, we also celebrated the spirit of independence, infusing our journey with a sense of patriotism and camaraderie. It made our journey even more memorable! 🙏
+## 🇮🇳 **Celebrating Independence Day:** 
+
+While diligently working on our project, we also celebrated the spirit of independence, infusing our journey with a sense of patriotism and camaraderie. It made our journey even more memorable! 🙏
 
 I extend my heartfelt gratitude to **Dr. Sangita Kurundkar madam** and the dedicated faculty at **Vishwakarma Institute Of Technology** for their unwavering support and mentorship throughout this exhilarating journey. 🎓
 
@@ -46,6 +48,7 @@ I extend my heartfelt gratitude to **Dr. Sangita Kurundkar madam** and the dedic
 
 Special thanks are due to my friends, **SHAIKH TAYYAB**, **Bhavya Shah**, **Sandesh Bagmare**, and **Samiksha Gurakhe**, who contributed their expertise and perspectives, propelling our project to greater heights through their invaluable insights and collaboration. 🤝
 
-## 🚀 **About Start-a-thon:** Start-a-thon, organized by **Jamsetji Tata Society for Innovation and Entrepreneurship (JITSIE)**, **IIT Madras**, **Indian Institute of Technology, Madras**, **Startup Ignition Cell**, and **Wadhwani Foundation**, stands as India's premier hackathon where groundbreaking ideas meet potential investors, ultimately transforming into funded startups. It's a platform where dreams take flight, and innovation finds its wings! ✈️
+## 🚀 **About Start-a-thon:** 
+Start-a-thon, organized by **Jamsetji Tata Society for Innovation and Entrepreneurship (JITSIE)**, **IIT Madras**, **Indian Institute of Technology, Madras**, **Startup Ignition Cell**, and **Wadhwani Foundation**, stands as India's premier hackathon where groundbreaking ideas meet potential investors, ultimately transforming into funded startups. It's a platform where dreams take flight, and innovation finds its wings! ✈️
 
 I'm immensely grateful for this remarkable opportunity, and I eagerly anticipate where this extraordinary journey will lead us. Stay tuned for more updates on our **Inventory Management and Monitoring System** as we continue to innovate and create a positive impact on the world! 💼🔍📈
