@@ -28,6 +28,7 @@ What made the experience even more special was the celebration of our birthdays!
 
 I am grateful to the Antariksh Club for organizing this incredible star gazing event, providing a platform for us to connect with the cosmos and each other. Special thanks to Jameer Manur Sir for his unwavering support and guidance, making this experience possible.
 
+![IMG20230330043353](https://github.com/Auriel3003/samael/assets/103866475/aa135277-b876-4c3d-87d8-fdfd19b70c20)
 ![DSC_2126](https://github.com/Auriel3003/samael/assets/103866475/215f70e4-0b28-41b8-b02c-ef452d32165f)
 ![IMG-20230330-WA0027](https://github.com/Auriel3003/samael/assets/103866475/091c5678-6c77-490c-8fb1-3245d12db190)
 ![IMG-20230330-WA0029](https://github.com/Auriel3003/samael/assets/103866475/16ad8731-1a25-4506-88d4-b363f540ae92)
