@@ -12,6 +12,8 @@ description: 🤯 Exploring the fascinating parallels between Docker containers 
 
 I was sitting in a dimly lit cabinet, tinkering with my cybersecurity tools, when it struck me – Docker containers and "Neon Genesis Evangelion." Two seemingly unrelated worlds, but as I delved deeper, I began to see the parallels between these two distinct realms.
 
+![image](https://github.com/Auriel3003/samael/assets/103866475/4d9fa8ce-729d-4e86-8b25-a60eefa8064b)
+
 In the world of cybersecurity, Docker containers have become an integral part of modern software development. They offer isolation, scalability, and ease of deployment, making them a go-to choice for developers and system administrators. But what does this have to do with an iconic anime series like "Neon Genesis Evangelion," you might wonder?
 
 Let's take a journey into the world of containers and mechs, and see how they're more alike than you might think.
@@ -68,6 +70,8 @@ So, the next time you work with Docker and configure containers to run your appl
 ## Scalability and Deployment
 
 In the world of "Neon Genesis Evangelion," the need for scalability is paramount. The Angels, formidable adversaries, come in various forms and possess unique abilities, which require the deployment of specialized Eva Units. Each Eva Unit is tailored to combat specific Angel threats. For instance, Unit-01 might excel against one Angel, while Unit-02 could be better suited to face another.
+
+![image](https://github.com/Auriel3003/samael/assets/103866475/1995968b-c665-481e-8ee4-240c968df9f5)
 
 This concept mirrors the idea of scalability in Docker containers. In a real-world scenario, you may have a multi-tiered application comprising various components, each running in separate containers. When your application experiences increased load or specific resource requirements, you can scale individual containers horizontally by replicating them. This ability to create additional instances of containers to handle increased demand is analogous to deploying different Eva Units to combat different Angels.
 
