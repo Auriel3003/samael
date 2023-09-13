@@ -54,6 +54,8 @@ So, when we think of "Pilots as Processes," we see that both "Neon Genesis Evang
 
 In "Neon Genesis Evangelion," Eva Units are not static machines but highly adaptable mechs. They are equipped with an array of weaponry and specialized equipment tailored to combat specific threats posed by the Angels. These weapons include energy rifles, progressive knives, positron cannons, and even experimental armaments like the Lance of Longinus. Eva Units can also be fitted with various armor configurations, further enhancing their capabilities.
 
+![image](https://github.com/Auriel3003/samael/assets/103866475/4eba6579-dd2c-49c7-913d-b05a39a2af9b)
+
 Now, how does this relate to Docker containers?
 
 Docker containers, like Eva Units, are highly customizable. When creating a Docker container, developers can specify not only the core application but also the environment in which it runs. This means choosing the specific operating system, libraries, dependencies, and configurations needed for the application to function optimally. It's akin to selecting the weapons and equipment an Eva Unit needs for a particular mission.
