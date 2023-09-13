@@ -20,7 +20,7 @@ Let's take a journey into the world of containers and mechs, and see how they're
 
 In "Neon Genesis Evangelion," Eva Units are massive humanoid mechs created to protect humanity from existential threats known as Angels. These mechs serve as the last line of defense, just as Docker containers can serve as a protective barrier for applications and services in the realm of software development and deployment.
 
-![image](https://github.com/Auriel3003/samael/assets/103866475/f844f18f-5c42-4c54-8db6-cae8782a96d7 =240x)
+<img src="https://github.com/Auriel3003/samael/assets/103866475/f844f18f-5c42-4c54-8db6-cae8782a96d7" width="240">
 
 Eva Units are meticulously designed and maintained to provide a **controlled environment** for their pilots. Similarly, Docker containers offer controlled environments for running applications. Containers encapsulate everything needed for an application to run, from the code and dependencies to the environment variables and configurations. This encapsulation ensures that the application operates consistently, regardless of the underlying infrastructure, much like how Eva Units maintain a stable environment for their pilots.
 
