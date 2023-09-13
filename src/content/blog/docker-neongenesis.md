@@ -36,6 +36,8 @@ Eva Units are **standardized** to ensure compatibility and ease of maintenance. 
 
 In "Neon Genesis Evangelion," the Eva Units are operated by human pilots who establish a mental and emotional connection with their mechs. This connection, often referred to as synchronization, is critical for the effectiveness of the Eva Units in combating the Angel threats. The pilot's thoughts, emotions, and decisions directly influence the Eva Unit's actions.
 
+![image](https://github.com/Auriel3003/samael/assets/103866475/b531a211-b377-401f-9d91-7d63b358c1e2)
+
 Now, let's draw the parallel to Docker containers:
 
 In the world of Docker, applications and services are packaged into containers. These containers encapsulate everything needed to run an application, including its code, dependencies, and runtime environment. Within each container, various processes are running, much like the Eva Units have a pilot within them.
