@@ -14,7 +14,7 @@ description: Horn Antenna Workshop, IUCAA
 
 # 🌟 Exploring the Cosmic Depths at the Horn Antenna Workshop: Unraveling the 21cm H-Line Spectrum and the Art of Building Horn Antennas 🌟
 
-From April 11-13, **me (Sahil)**, with my colleagues, **Chanchal**, **Aditya**, and I, had the profound privilege of participating in the Horn Antenna Workshop, meticulously organized by the eminent **IUCAA (Inter University Centre for Astronomy and Astrophysics)**. This Faculty Development Programme drew over 30 distinguished professors from across India, all of whom were driven by a collective passion for unlocking the mysteries of the universe.
+From April 11-13, **me (Sahil)**, with my colleagues, **Chanchal**, **Aditya**, had the profound privilege of participating in the Horn Antenna Workshop, meticulously organized by the eminent **IUCAA (Inter University Centre for Astronomy and Astrophysics)**. This Faculty Development Programme drew over 30 distinguished professors from across India, all of whom were driven by a collective passion for unlocking the mysteries of the universe.
 
 I am **Sahil Sawant**, an ardent S.Y.B.Tech student, immersed in the world of **Electronics and Telecommunication Engineering**. **Chanchal**, my ingenious companion, is a fellow SYB.Tech student specializing in **Information Technology**, while **Aditya**, with his expertise in **Instrumentation Engineering**, is a commendable TYB.Tech student. Together, we undertook the formidable task of mastering the art of building a Horn Antenna and deciphering the enigmatic 21cm H-Line Spectrum.
 
