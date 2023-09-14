@@ -22,6 +22,9 @@ I am **Sahil Sawant**, an ardent S.Y.B.Tech student, immersed in the world of **
 
 But what truly made this experience unforgettable was the opportunity to delve into the mysteries of the **21cm H-line spectrum** and building the **Horn Antenna**
 
+
+![TLC3](https://github.com/Auriel3003/samael/assets/103866475/eb38c341-1507-420d-894b-67defbb98f96)
+
 ### 📡 The 21cm H-Line Spectrum:
 
 At the heart of our exploration lies the 21cm H-line, a spectral line characterized by its wavelength of approximately 21 centimeters, equivalent to a frequency of 1420 MHz. This spectral line is intrinsically linked to the hyperfine structure transition of neutral hydrogen atoms. It occupies a pivotal role in radio astronomy as it enables us to probe the distribution of neutral hydrogen gas throughout the cosmos. The 21cm wavelength is particularly significant because it can traverse vast cosmic distances without significant absorption or scattering.
@@ -41,6 +44,8 @@ Throughout the workshop, we were fortunate to learn from distinguished luminarie
 ## Networking with the bright minds:
 
 During the workshop, we had the privilege of learning from some of the brightest minds in the field, including:
+
+![WhatsApp Image 2023-08-03 at 11 12 16 PM](https://github.com/Auriel3003/samael/assets/103866475/8286f032-b21d-455b-94e4-e53d981c73e3)
 
 ### 🚀 B. C. Joshi:
 
