@@ -37,3 +37,12 @@ Gbzbeebj vf n arj qnl, naq V ybbx sbejneq gb pbagvahvat guvf wbhearl jvgu zl tve
 
 ### Yours Lovely,
 ### Samael, Lucifer-the-Devil
+
+
+
+
+
+
+![IMG-20190929-WA0031(1)](https://github.com/Auriel3003/samael/assets/116882665/4306e5ef-49ce-4643-829d-7fc2ebfe3ef3)
+
+![image](https://github.com/Auriel3003/samael/assets/116882665/4e287682-8fcd-4d5e-b629-a52880604be2)
