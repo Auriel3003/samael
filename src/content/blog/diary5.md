@@ -24,6 +24,8 @@ I hit up my folks pronto to spill the beans. Dad was stoked, urging me to loop i
 
 Spreading the news among my buddies was intense. **Tayyab**, my trusted friend, went all out broadcasting it. **Kartik, Sanket,** and **Prasad** were hyped, matching my vibe. **Bhavya**, my partner-in-crime during interviews, didn't make it, but his happiness for my win hit differently—almost got me feeling emotional. 🎉
 
+Then there were the special friends, rallying their whole hostel crew to join in the happiness. The vibes were contagious. And those few friends who were eagerly waiting for my success? They made it feel like their win too. Plus, one friend had double reasons to celebrate, adding to the crazy mix of emotions today. 🎉🎉
+
 Hostel life turned into a mini rave. **Chaitanya and Anuj** threw party of sweets and snacks for a surprise bash. We partied hard, the genuine happiness around me making it an epic night. 🏠✨
 
 But then, as the night crept in, doubts clawed at me. ***Why me? Were others more deserving? Did I steal this chance? Mixed emotions—my success brought joy, but their misses hit hard.*** 😔
@@ -34,7 +36,7 @@ Turned to Ganapati Bappa, seeking answers. No luck. Prayed for clarity from Lord
 
 Today was a mix of victory and contemplation, leaving me with a blend of gratitude, joy, and self-reflection.
 
-Signing off for now, Diary. 🌙
+*Signing off for now, Diary.* 🌙
 
 Catch you later,
 
