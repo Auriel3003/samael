@@ -16,23 +16,30 @@ description: BMC Cracked and The day I got Internship
 
 **Title:** Triumphs and Reflections
 
-Today was a whirlwind of emotions and achievements. Amidst the chaos of end semester exams and assessments, a beam of light shone through—I secured an internship at BMC Software! The thrill of this accomplishment was beyond words. 🌟
+Today was one hell of a rollercoaster. End sem exams had me drowning, but amidst the academic chaos, a ray of light broke through—I snagged an internship at **BMC Software**. The rush I felt was indescribable. 🌟
 
-I immediately reached out to my parents to share the news. The joy in my father's eyes when he heard was priceless, and he couldn't wait for me to tell my mother. Both of them were overwhelmed with happiness, and their support meant everything to me. ❤️
+![image](https://github.com/Auriel3003/samael/assets/116882665/dc61027c-74e7-4961-8369-5bd2e524d0c7)
 
-Sharing the news with my friends was an unforgettable experience. Tayyab, my classmate and confidant, was ecstatic, spreading the word like wildfire. Kartik, Sanket, and Prasad joined in, their excitement matching mine. But Bhavya, my friend and companion through the interview process, couldn't contain his joy despite not making it through himself. His happiness for me was deeply touching. 🎉
+I hit up my folks pronto to spill the beans. Dad was stoked, urging me to loop in Mom. Both were bursting with joy, their support hitting me in the feels. ❤️
 
-The celebration continued with my hostel mates, Chaitanya and Anuj, organizing a delightful surprise. Sweets, snacks, and an impromptu hostel party ensued—a celebration to cherish. The genuine happiness from everyone around me made the day even more special. 🏠✨
+Spreading the news among my buddies was intense. **Tayyab**, my trusted friend, went all out broadcasting it. **Kartik, Sanket,** and **Prasad** were hyped, matching my vibe. **Bhavya**, my partner-in-crime during interviews, didn't make it, but his happiness for my win hit differently—almost got me feeling emotional. 🎉
 
-Yet, as the night settled in, questions gnawed at my soul. Why me? Were there others more deserving? Did I snatch this opportunity? Mixed emotions flooded in—joy for my success, but sorrow for those who didn't make it. 😔
+Hostel life turned into a mini rave. **Chaitanya and Anuj** threw party of sweets and snacks for a surprise bash. We partied hard, the genuine happiness around me making it an epic night. 🏠✨
 
-Seeking solace, I turned to Ganapati Bappa, hoping for clarity. But the answers eluded me. With a heart seeking understanding, I prayed for guidance and wisdom from Lord Ganesha. 🙏
+But then, as the night crept in, doubts clawed at me. ***Why me? Were others more deserving? Did I steal this chance? Mixed emotions—my success brought joy, but their misses hit hard.*** 😔
 
-Today was a day of triumph and reflection, leaving me with a blend of gratitude, joy, and introspection.
+![image](https://github.com/Auriel3003/samael/assets/116882665/a968a275-d93f-41f1-9e66-5587962f97e9)
 
-Good night, dear diary. 🌙
+Turned to Ganapati Bappa, seeking answers. No luck. Prayed for clarity from Lord Ganesha, but clarity eluded me. 🙏
 
-Warm regards,
+Today was a mix of victory and contemplation, leaving me with a blend of gratitude, joy, and self-reflection.
+
+Signing off for now, Diary. 🌙
+
+Catch you later,
+
 **With Dev-ish spirit,**
+
 **Samael Morningstar.**
+
 (signing off)
