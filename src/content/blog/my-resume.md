@@ -75,7 +75,7 @@ Passionate about merging Software Engineering proficiency with a keen interest i
 - Addressed legal, network, and service-related hurdles for comprehensive project success.
 - _**Guide:** Prof. Dr. Vijay Mane Sir (Dean- Analytics)_
 
-## Farmer’s Buddy Application (JAVA + MySQL) :
+### Farmer’s Buddy Application (JAVA + MySQL) :
 - A comprehensive solution aiding farmers in developing countries.
 - Offers critical information on government schemes, markets, news, and soil data.
 - Features a direct marketplace for crop transactions, empowering farmers and bypassing intermediaries.
@@ -97,7 +97,7 @@ Passionate about merging Software Engineering proficiency with a keen interest i
 - Tools Used: RUDRA 3.0,
 - _**Guide:** Jameer Manur Sir, IUCAA_
 
-## Inventory Management and Monitoring System (Embedded Syst.): 
+### Inventory Management and Monitoring System (Embedded Syst.): 
 - This project involved creating both hardware (Raspberry Pi, NodeMCU, sensors, actuators) and software (Python coding, real-time dataset management, environment monitoring, database integration) components.
 - It showcases skills in client-server communication, Python scripting, and GUI development, which are valuable in DevOps for automation, monitoring, and managing infrastructure.
 - _**Achievement:** reached Final Stage LIFTOFF Cohort, attanged by IIT-Madras and Wadhwani Foundation._
