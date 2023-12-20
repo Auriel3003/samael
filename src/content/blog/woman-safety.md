@@ -7,8 +7,10 @@ featured: false
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - Projects
-description: A Smart SOS Device
+description: IoT in Smart Cities
 ---
+
+# Smart SOS Device for Woman Safety
 
 [Get the experience on the **Instagram**](https://www.instagram.com/reel/CrtaradIham/?igshid=YmMyMTA2M2Y=)
 
