@@ -15,24 +15,37 @@ description:
 
 # Sahil Ashok Sawant
 
-## Python Developer and Engineer
+Emerging Software Developer with a focus on Cybersecurity and Operating Systems Management, exploring innovative solutions. Ranked 74,387 on LeetCode, actively advancing skills, and dedicated to pioneering developments in Cybersecurity, DevOps, System Analysis.
+
 - **Email:** sasawant303@gmail.com
 - **Phone:** +91 8806832965
 - **Location:** Pune, India
 
 ## Education
 
+### ICSE
+  #### Council for the Indian School Certificate Examinations.
+  June'2018 to July' 2019
+  Percentage: 92.00%
+  
+### HSC
+  #### Maharashra State Higher Secondary Examination
+  August'2019 to July' 2021
+  Percentage: 89.66%
+
 ### Dept. of Engineering, Sciences and Humanitites
   #### Vishwakarma Institute of Technology, Pune
   January' 2022 to June' 2022
+  CGPA: 9.29
 
 ### Dept. of Electronics and Telecommunication Engineering
   #### Vishwakarma Institute of Technology, Pune
   June' 2022 to **_Present_**
+  CGPA: 8.47
   
 
 ## Skills
-- Python
+- Python, C, Java, JS
 - BASH
 - Data Structures
 - Linux
@@ -44,76 +57,109 @@ description:
 - Object-Oriented Programming
 - Database Management Systems
 
+## Interests
+- Writing Blogs and Novel
+- Philosophy and Psychology
+- Listening Songs
+- Playing Keyboard (Harmonium, Classical Indian)
+- Experimenting Linux
+
 ## Projects
 
-### 1. Host-Based Network and Process Analyzer
+Passionate about merging Software Engineering proficiency with a keen interest in Cybersecurity Innovation, complemented by a deep-seated enthusiasm for the Engineering marvels of Astronomy.
+
+### URL Enumeration of Hidden Servers over TOR (Cybersecuri﻿ty) : 
+- Led a pioneering cybersecurity initiative targeting active hidden servers within the TOR network.
+- Utilized Python, Wireshark, and Tcpdump for efficient URL enumeration and encryption analysis.
+- Led a diverse six-member team, collaborating to navigate encryption vulnerabilities and overcome dynamic site changes and cryptographic challenges.
+- Addressed legal, network, and service-related hurdles for comprehensive project success.
+- _**Guide:** Prof. Dr. Vijay Mane Sir (Dean- Analytics)_
+
+## Farmer’s Buddy Application (JAVA + MySQL) :
+- A comprehensive solution aiding farmers in developing countries.
+- Offers critical information on government schemes, markets, news, and soil data.
+- Features a direct marketplace for crop transactions, empowering farmers and bypassing intermediaries.
+- This initiative aims to transform farmers' lives, improve profitability, and stimulate local economies.
+- _**Novelty:** Original Government Schemes, Farmer News and Environment Prediction._
+
+### Host-Based Network and Process Analyzer (Python/Bash + Comp. Networks)
 - **Engineering Development and Innovation (3th Sem)**
 - Developed a Network and Process Analyzing tool for maintaining computers in a network
 - Technologies used: Computer Networks, Server-Client Communication, Python Scripting, SMTP
-- **GitHub:** [Link](https://github.com/Samael3003/Host-based-Network-and-Process-Analyser/)
-- Published at Innovations and Intelligence for Computing Technologies, Umagine Chennai
-- **Contact:** Dr. Vijay Mane, Dean (Analytics) - [LinkedIn](https://www.linkedin.com/in/prof-dr-vijay-mane-1a91121b/)
+- _**Published at** Innovations and Intelligence for Computing Technologies, Umagine Chennai_
+- _**Guide:** Dr. Vijay Mane, Dean (Analytics)_
 
-### 2. Inventory Management and Monitoring System
-- **Engineering Development and Innovation (4th Sem)**
-- Created a hardware and software system for inventory management
-- Technologies used: Raspberry Pi, Client-Server Communication, Python Scripting, Python GUI
-- **GitHub:** [Link](https://github.com/Samael3003/)
-- Published at National Conference on Internet of Things (NCIOT-23), Pune
-- **Contact:** Prof. Sangeeta Kurundkar - [LinkedIn](https://www.linkedin.com/in/dr-sangita-kurundkar-64098619/)
+### Automation of Optical Telescope (Embedded Sys. + Astronomy)
+- Developed an automated Telescope Mount for Stellar Analysis and amateaur astronomres.
+- Made handmade Telescope, with hand polished mirrors and Lenses.
+- Follows the star trail with respect to Polaris (Pole Star),
+- The Mobile Application has feature map 8 stars total (Sirius, Betelguese, Bellatrix, Polaris, Mirzam)
+- Tools Used: RUDRA 3.0,
+- _**Guide:** Jameer Manur Sir, IUCAA_
 
-### 3. Blink Controlled Wheelchair
-- **Capstone Project (2nd Sem)**
-- Developed a Wheelchair for Specially abled Citizens, which would work on the Blink Strength of the Controlling Human.
-- Technologies used: Arduino, Packet Transfer, Bluetooth, Electroencephalography (EEG)
-- **GitHub:** [Link](https://github.com/Samael3003/)
-- Published at International Conference on Data Management, Analytics, and Innovations (ICDMAI)
-- **Contact:** Prof. Kaushala Thopate - [LinkedIn](https://www.linkedin.com/in/dr-k-v-thopate-255a3045/)
+## Inventory Management and Monitoring System (Embedded Syst.): 
+- This project involved creating both hardware (Raspberry Pi, NodeMCU, sensors, actuators) and software (Python coding, real-time dataset management, environment monitoring, database integration) components.
+- It showcases skills in client-server communication, Python scripting, and GUI development, which are valuable in DevOps for automation, monitoring, and managing infrastructure.
+- _**Achievement:** reached Final Stage LIFTOFF Cohort, attanged by IIT-Madras and Wadhwani Foundation._
+- _**Published at** National Conference on Internet of Things (NCIOT-23), Pune_
+- _**Guide:** Prof. Sangeeta Kurundkar_
 
-## Competition Projects
+### Wireless Communication Research (Communication Engg.): 
+- Contributed in Research about Comparative Analysis of Channel Estimation Techniques in MIMO OFDM System in Reyleigh Environment.
+- While not directly related to Linux, this research project on MIMO-OFDM systems involves deep technical knowledge of communication systems, which could be useful in understanding network protocols and configurations in a DevOps context.
+- _**Guide:** Prof. Dr. Shital Raut Madam_
 
-### 1. Enabling Smart SOS System
-- **Competition : _State Level IoT-based Project Competition_**
-- **Organised by : _Sanjay Ghodawat University, Kolhapur_**
+### Infrastructure Inspection Drone (IoT + CV): 
+- Created a Drone with NAZA Flight Controller and Brushless DC Motor.
+- It was mounted with a Raspberry Pi and a PiCam, which would constantly monitor the Constructed Infrastructure for signs of Anamoly, like Cracks.
+- It would mark the cracks for future investigations.
+- Technologies used: Raspberry Pi, OpenCV, FFmpeg, SMTP, MIME
+- _**Achievement:** Introduced at PICT Impetus (winner) and Symbiosis Protech(runner-up)_
+
+### Enabling Smart SOS System (IoT SmartCity)
 - Created a hardware project for personal safety with alarm, image capture, and SOS call functionality
 - Technologies used: Raspberry Pi, Python Programming, WiFi Triangulation, GPS, GSM Communication.
-- **[Linkedin](https://www.linkedin.com/posts/sahil-sawant-its-31aug_projectexhibition-sanjayghodawatuniversity-activity-7065719183400919040-9zlM?utm_source=share&utm_medium=member_desktop)**
+- **_Competition:** State Level IoT-based Project Competition, Sanjay Ghodawat University, Kolhapur_
 
-### 2. Infrastructure Inspection using a Drone
-- **Competition : _ProTech Competition_**
-- **Organised by : _Symbiosis Institute of Technology, Pune_**
-- Developed a drone equipped with a Raspberry Pi and PiCam for monitoring infrastructure
-- Technologies used: Raspberry Pi, OpenCV, FFmpeg, SMTP, MIME
-- **[Linkedin](https://www.linkedin.com/posts/sahil-sawant-its-31aug_protechroboticscompetition-innovation-infrastructureinspectiondrone-activity-7065772911004950528-GyuT?utm_source=share&utm_medium=member_desktop)**
-
-### 3. Blink Controlled Wheelchair
-- **Publication : _International Conference on Data Management, Analytics, and Innovations (ICDMAI)_**
-- **Organised by : _Defense Institute of Advanced Technology (DIAT), DU, DRDO_**
+### Blink Controlled Wheelchair (Embedded + IoT Healthcare)
 - Developed a Wheelchair for Specially abled Citizens, which would work on the Blink Strength of the Controlling Human.
 - Technologies used: Arduino, Packet Transfer, Bluetooth, Electroencephalography (EEG)
-- **[Linkedin](https://www.linkedin.com/posts/sahil-sawant-its-31aug_technology-opportunity-experience-activity-7065710326343725056-mpii?utm_source=share&utm_medium=member_desktop)**
+- _**Published at** International Conference on Data Management, Analytics, and Innovations (ICDMAI)_
+- _**Guide:** Prof. Kaushala Thopate_
 
-## Organizations and Voluntary Activities
+
+## Conferences
+
+### 7th International Conference on Data Management, Analytics, and Innovations (ICDMAI)
+- Hosted by **Defense Institute of Advanced Technology (DIAT, DU, DRDO)**
+- Presented research paper: **"Blink Controlled Wheelchair"**
+- Explored advancements in data management, analytics, and innovation
+- Engaged with influential figures like **Malay Nema** from CAIR, DRDO, and **G.S. Mani**, a distinguished technology expert
+- Connected with researchers, academics, and industry professionals for knowledge exchange and potential collaborations
+- Received valuable feedback, refining ongoing work and fostering professional growth
+
+### 7th International Conference on Computing, Communication, Control, and Automation (ICCUBEA PUNE-2023)
+- Hosted by **Pimpri Chinchwad College of Engineering (PCCOE PUNE)**,
+- Presented project: **"Safety with Technology: a smart SOS Device"**
+- Showcased a portable safety device powered by Raspberry Pi, integrating IoT and Computer Networks
+- Acknowledged team members, mentors, and faculty for their contributions and guidance
+- Engaged in discussions addressing cost-effectiveness, implementation perspectives, and comparison with alternative safety methods
+
+### Patent Office, Republic of South Africa (SA)
+- Presented Idea: **“A Blink Controlled Wheelchair System”**
+- Application Number: 2023/09895 ; Date of file: 24/10/2023
+
+
+
+## Organizations
 
 ### InterUniversity Centre for Astronomy and Astrophysics (IUCAA), Pune, India
-  - Working on automating a 3.5m Radio Antenna, to get readings of H-1 Emission Spectrum and previously worked on HORN Antenna, creating it, and working on it.
-  - **Contact:** Jameer Manur Sir - [Linkedin](https://www.linkedin.com/in/jameer-manur-311222a3/)
-
-### Antariksh Club of VI, Pune
-
-  #### Conducted Two Events till date.:
-  
-  > 1. **[Reaching to the Sun](https://www.linkedin.com/posts/sahil-sawant-its-31aug_antarikshclub-solarscience-guestlecture-activity-7065722931267411968-SAiM?utm_source=share&utm_medium=member_desktop) :** The Guest Lecture, invited Dr. Helen Mason, who had contributed in ESA, NASA, ISRO, etc, and was Leading the Solar Orbiter Mission.
-  > 
-  > 2. **[Star Gazing and Star Party](https://www.linkedin.com/posts/sahil-sawant-its-31aug_stargazing-antarikshclub-celestialwonders-activity-7065763394959589376-k2EI?utm_source=share&utm_medium=member_desktop) :** We conducted the Star Party, near the foothills of Rajgad, and had pleasure of observing Constellation, Planet, Clusters through different Telescopes
-  > 
-  > 3. **[SCIENCE DAY](https://www.linkedin.com/posts/sahil-sawant-its-31aug_sciencedaycelebration-iucaa-exhibition-activity-7065726957140762625-qYpt?utm_source=share&utm_medium=member_desktop) :** on 26th Feb, on account of National Science Day, vounteered for the Science Exhibition, and explained the topic of **Antenna Theory** along with Hands on Experiments. Also got to meet Dr. Jayant Narlikar, Prof. Dhruba Saikia.
-    
-### Persistant Systems, Pune
-  **[Guest Talk](https://www.linkedin.com/posts/sahil-sawant-its-31aug_persistantsystems-inspiration-technologyforgood-activity-7065715171804995584-UmwV?utm_source=share&utm_medium=member_desktop)** : had an immense pleasure listening to [**Anand Deshpande**](https://www.linkedin.com/in/ananddeshpande/), CEO of Persistant Systems and [**Desh Deshpande**](https://www.linkedin.com/in/deshdeshpande/), CEO of Deshpande Foundations, exchanging views and ideas about the Advancements in Technology, and use in Philanthropy.
-
+  - Working upon automating a 3.5m Radio Antenna, to automate and calibrate the Process. Also working on Horn Antenna to get the readings of the H-1 Line Spectrum.
+  - **Guide:** Jameer Manur Sir 
 
 
 ## Certificates
-- Cybersecurity Fundamentals - IBM [Badge](https://www.credly.com/badges/186ef791-10f8-431c-923e-afa044b85835?source=linked_in_profile)
-- Cisco Networking Academy Learn-A-Thon 2022 - CISCO [Badge](https://www.credly.com/badges/479ded78-d384-469e-9f2f-bb69125ce853?source=linked_in_profile)
+- **Cybersecurity Fundamentals** - IBM [Badge](https://www.credly.com/badges/186ef791-10f8-431c-923e-afa044b85835?source=linked_in_profile)
+- **Cisco Networking Academy Learn-A-Thon 2022** - CISCO [Badge](https://www.credly.com/badges/479ded78-d384-469e-9f2f-bb69125ce853?source=linked_in_profile)
+- **South Africa Patent Office**
+Republic of South Africa- Application: 2023/09895
