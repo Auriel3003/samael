@@ -6,7 +6,7 @@ postSlug: net-n-proc-analyser
 featured: false
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
-  - Hardware-Projects
+  - Projects
 description: Smooth Client and Server Communication guide for optimal data transfer
 ---
 
