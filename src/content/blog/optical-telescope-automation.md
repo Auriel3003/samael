@@ -53,6 +53,66 @@ description: Embedded System + Astronomy
 - The developed system showcases commendable accuracy and precision, signaling a step forward in combining technology with astronomy.
 - It promises a cost-effective and accessible solution for both amateur astronomers and astrophotographers, facilitating clearer astronomical data capture.
 
+### CODE: 
+
+For the Stellar Tracking System using an Automated Dobsonian Telescope, you'll need an algorithm to control the stepper motors and manage the tracking of celestial bodies across the night sky. Here's a simplified example in C that outlines the basic steps:
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <unistd.h> // For usleep() function
+
+// Define constants for motor control
+#define STEPS_PER_REVOLUTION 200 // Number of steps per revolution of the motor
+#define STEP_DELAY_MICROSEC 5000 // Delay between steps in microseconds
+
+// Function to move the stepper motor
+void moveStepperMotor(int steps, int direction) {
+    // Simulate motor movement by printing the steps and direction
+    printf("Moving %d steps in direction %d\n", steps, direction);
+    // Add code to control the actual stepper motor here
+    // Example: Control stepper motor using GPIO pins or motor drivers
+    // Simulate movement by delaying for a given time (representing motor motion)
+    usleep(steps * STEP_DELAY_MICROSEC);
+}
+
+// Function to track celestial bodies
+void trackCelestialBody(double targetAltitude, double targetAzimuth) {
+    // Get current telescope position (altitude and azimuth)
+    double currentAltitude = 0.0; // Example: Get current altitude
+    double currentAzimuth = 0.0; // Example: Get current azimuth
+    
+    // Calculate steps needed to move to the target position
+    int altitudeSteps = (int)((targetAltitude - currentAltitude) * STEPS_PER_REVOLUTION);
+    int azimuthSteps = (int)((targetAzimuth - currentAzimuth) * STEPS_PER_REVOLUTION);
+    
+    // Move the motors to adjust altitude and azimuth
+    moveStepperMotor(altitudeSteps, 1); // Move in the positive direction for altitude
+    moveStepperMotor(azimuthSteps, 1); // Move in the positive direction for azimuth
+    
+    // Repeat the tracking process based on sensor inputs or time intervals
+    // Example: Continuously read sensor data and update telescope position
+}
+
+int main() {
+    // Example: Initialize telescope system, set initial position, etc.
+    
+    // Target celestial body coordinates (for example, a specific star or planet)
+    double targetAltitude = 30.5; // Example: Target altitude in degrees
+    double targetAzimuth = 150.2; // Example: Target azimuth in degrees
+    
+    // Track the celestial body
+    trackCelestialBody(targetAltitude, targetAzimuth);
+    
+    return 0;
+}
+```
+
+This is a basic algorithm outline. You'll need to integrate this code with your hardware setup and adjust it according to the specific requirements of your telescope and motor control system. The `moveStepperMotor` function is a placeholder; you'll need to replace it with actual code to control your stepper motors. Similarly, the `trackCelestialBody` function needs to be adapted to read sensor data or receive inputs for real-time tracking.
+
+
+
 ### Conclusion and Future Prospects
 - The Stellar Tracking System using an Automated Dobsonian Telescope System not only underscores the significance of precision in celestial observations but also heralds a new era in amateur astronomy.
 - Its potential for evolution towards enhanced precision, remote accessibility, and advanced imaging capabilities marks a promising trajectory in the realm of astronomical exploration.
