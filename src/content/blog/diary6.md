@@ -39,3 +39,10 @@ Catch you later,
 **Samael Morningstar.**
 
 (signing off)
+
+
+
+
+pic of the DAY:
+
+![WhatsApp Image 2024-01-18 at 11 47 10 PM](https://github.com/Auriel3003/samael/assets/116882665/c1c129d5-1b2b-42c0-9baa-e271c691f626)
