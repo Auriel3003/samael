@@ -20,6 +20,9 @@ As a budding engineer with a passion for astronomy, my journey took an exciting 
 
 ## Exploring the Radio Frequency Synthesizer
 
+![IMG-20240530-WA0005](https://github.com/Auriel3003/samael/assets/103866475/89383a2d-4c28-4f7b-98d3-27b79f9958ed)
+
+
 Under the expert guidance of Dr. Sujaya Das Gupta, I was introduced to the intricacies of developing a Radio Frequency (RF) Synthesizer. The objective of this project was to create a precise RF synthesizer tailored for quantum science and technology applications, particularly for quantum state manipulation, which necessitates highly stable and accurate frequency sources.
 
 The RF synthesizer we worked on is a marvel of modern engineering, featuring:
@@ -36,6 +39,9 @@ Through this project, I gained a deeper understanding of:
 3. The intricacies of integrating hardware components such as DDS chips, VCOs, ADCs, and DACs with microcontrollers.
 
 ## Fiber Optics Noise Cancellation System
+
+![WhatsApp Image 2024-06-03 at 9 04 01 AM](https://github.com/Auriel3003/samael/assets/103866475/62edf4b6-9e70-4e56-9f4e-8e8c176323a5)
+
 
 The second major project I worked on, guided by Dr. Stanley Johnson, focused on the stability and reliability of message transmission using fiber optics. This project aimed to mitigate environmental noise, such as vibrations, that can adversely affect signal integrity.
 
@@ -57,3 +63,6 @@ This project enhanced my understanding of:
 
 ### Conclusion
 My time at IUCAA's PQM Lab was nothing short of extraordinary. Under the mentorship of Dr. Sujaya Das Gupta and Dr. Stanley Johnson, I not only gained hands-on experience with cutting-edge technologies but also developed a profound appreciation for the meticulousness required in high-precision instrumentation and telecommunications. This experience has undoubtedly enriched my academic journey and solidified my resolve to continue exploring the fascinating intersections of electronics, telecommunications, and physics. I look forward to applying these insights to future projects and contributing to advancements in these dynamic fields.
+
+![WhatsApp Image 2024-06-03 at 9 03 57 AM](https://github.com/Auriel3003/samael/assets/103866475/e0e2083c-873f-4812-a84c-beb539735638)
+
