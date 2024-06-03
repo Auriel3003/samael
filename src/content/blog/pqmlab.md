@@ -14,6 +14,9 @@ description: My Experience at IUCAA's PQM-Lab
 
 # My Experience at IUCAA's Precision and Quantum Measurement Laboratory
 
+![Uploading Screenshot_20240603_091130.png…]()
+
+
 ... By Sahil Ashok Sawant
 
 As a budding engineer with a passion for astronomy, my journey took an exciting turn when I was selected for the ISSAA summer school program organized by the **Inter-University Centre for Astronomy and Astrophysics (IUCAA)**. This opportunity not only allowed me to delve deeper into my research interests in _**Instrumentation**, **Telecommunications**, and **Physics**_ but also gave me the chance to work alongside some of the most brilliant minds in the field. Among the many enriching experiences, my exposure to **IUCAA's Precision and Quantum Measurement Laboratory (PQM)** stands out as particularly transformative.
