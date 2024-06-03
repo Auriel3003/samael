@@ -15,7 +15,10 @@ description: My Experience at IUCAA's Instrumentation-Lab
 
 Hello, I'm Sahil Ashok Sawant, a B.Tech student in Electronics and Telecommunications Engineering with a deep passion for astronomy. Recently, I had the incredible opportunity to participate in the IUCAA Summer School Program in Astronomy and Astrophysics (ISSAA). This program, organized by the Inter-University Centre for Astronomy and Astrophysics (IUCAA), allowed me to immerse myself in the fascinating world of astronomy and astrophysics. One of the highlights of this program was my visit to IUCAA's laboratories, including the Precision and Quantum Measurement (PQM) Lab, where I had the chance to work on some cutting-edge projects.
 
-# Telescope Simulator: Bridging the Gap between Theory and Practice
+# Telescope Simulator: Theory and Practice
+
+![WhatsApp Image 2024-06-03 at 9 04 03 AM](https://github.com/Auriel3003/samael/assets/103866475/7a7ae321-7e24-41f5-acb0-980ab599d98d)
+
 ### Objective
 The primary objective of the Telescope Simulator project was to develop a comprehensive simulator that replicates the movements and mechanical behavior of a real telescope. This simulator is crucial for testing and calibrating observational instruments and techniques without relying on actual telescopes, which can be both expensive and logistically challenging.
 
@@ -66,15 +69,21 @@ The IUCAA SIDECAR Drive Electronics Controller (ISDEC) project aimed to develop 
 ### 1. Hardware
 ISDEC controlled the H4RG IR Detector using the SIDECAR ASIC, operating at extremely low temperatures within a cryogenic Dewar. A Xilinx Spartan-IIIE FPGA supported the CMOS and LVDS interfaces with the SIDECAR ASIC. The system featured high-speed USB 2.0 interface for communication and fast data readout.
 
+![WhatsApp Image 2024-06-03 at 9 04 02 AM(2)](https://github.com/Auriel3003/samael/assets/103866475/7611da1e-22a2-423c-b79e-cca012d96c39)
+
+
 ### 2. Software
 Developed primarily in C, the Linux-based software ensured compatibility with widely used Linux distributions. The system supported high-speed asynchronous data transfers and flexible configuration via command line interfaces and parameter files.
 
 **_Conclusion_**
-Participating in the IUCAA Summer School Program and working on these groundbreaking projects was a transformative experience. It deepened my understanding of the intricate interplay between instrumentation, telecommunications, and physics. The hands-on experience in the laboratories, combined with the guidance from experts like Dr. Sujaya Das Gupta and Dr. Stanley Johnson, has significantly enhanced my skills and knowledge.
+Participating in the IUCAA Summer School Program and working on these groundbreaking projects was a transformative experience. It deepened my understanding of the intricate interplay between instrumentation, telecommunications, and physics. The hands-on experience in the laboratories, combined with the guidance from experts like Dr. Sujit  and Dr. Sakya, has significantly enhanced my skills and knowledge.
+
+![WhatsApp Image 2024-06-03 at 9 04 00 AM](https://github.com/Auriel3003/samael/assets/103866475/0512144a-eac6-453f-bbf7-074dda29fb7f)
 
 I am grateful for the opportunity to contribute to these innovative projects and look forward to applying what I have learned in my future endeavors. This experience has reaffirmed my passion for astronomy and has set a strong foundation for my career in this exciting field.
 
 
+![WhatsApp Image 2024-06-03 at 9 04 02 AM](https://github.com/Auriel3003/samael/assets/103866475/ad438e14-63fd-4ca7-b364-7f1a7018a0cf)
 
 
 
