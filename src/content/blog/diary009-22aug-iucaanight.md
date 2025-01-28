@@ -1,5 +1,4 @@
 ---
-
 **author**: Samael  
 **pubDatetime**: 2024-08-22T14:27:52.737Z  
 **title**: Nightout at IUCAA  
@@ -9,7 +8,6 @@
 **tags**:  
   - diary  
 **description**: exploring stars at IUCAA with sir and collegues.  
-
 ---
 
 ### Nightout at IUCAA  
