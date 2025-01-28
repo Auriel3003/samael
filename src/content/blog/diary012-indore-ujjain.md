@@ -27,4 +27,3 @@ The return journey, though tiresome, was painted in hues of the Ganesh Visarjan 
 **Astronomy Connection**  
 While in Ujjain, I couldn't help but reflect on its significance as the home of the ancient **Jantar Mantar observatory**, a marvel of astronomical precision. Ujjain, positioned on the **Tropic of Cancer**, has been a pivotal location for celestial studies, connecting the spiritual with the scientific. It's awe-inspiring to think how the ancients mapped the heavens from this very spot.  
 
----
