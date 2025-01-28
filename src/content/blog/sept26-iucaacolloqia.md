@@ -10,11 +10,6 @@ tags:
 description: Chandra Lecture Series|The First Billion Years|Secrets from our Invisible Universe
 ---
 
-
-Here is a detailed outline and notes based on the lecture content you provided. Each section is clearly indexed for easy reference:
-
----
-
 ### **Lecture Notes: The Chandra Lecture Series - Dr. Hansa Padmanaban on the Early Universe**
 
 ---
@@ -170,6 +165,4 @@ Here is a detailed outline and notes based on the lecture content you provided. 
 #### 4.7 Conclusion
 - Dr. Padmanaban emphasized that with emerging technologies and collaborations (like the SKA and JWST), our understanding of the early universe is poised for significant advancement.
 
----
 
-These notes encompass the major points covered in Dr. Padmanaban’s lecture on the early universe, including key theories, findings, and the cutting-edge technologies aiding this field of study. Feel free to expand on any topic or ask for further clarifications!
