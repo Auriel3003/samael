@@ -1,14 +1,16 @@
 ---
-**author**: Samael  
-**pubDatetime**: 2024-08-22T14:27:52.737Z  
-**title**: Nightout at IUCAA  
-**postSlug**: night-at-iucaa  
-**featured**: false  
-**ogImage**: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png  
-**tags**:  
-  - diary  
-**description**: exploring stars at IUCAA with sir and collegues.  
+author: Samael
+pubDatetime: 2024-08-22T14:27:52.737Z
+title: Nightout at IUCAA
+postSlug: night-at-iucaa
+featured: false
+ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+tags:
+  - diary
+description: exploring stars at IUCAA with sir and collegues.
 ---
+
+# Engineering Meets Astronomy: Symbi-Lectures
 
 ### Nightout at IUCAA  
 
