@@ -23,7 +23,7 @@ Towards the end, we were honored with a token of appreciation from the Head of t
 
 As I reflect on the day, I feel a profound sense of gratitude for the opportunity to contribute, even in a small way, to inspiring future engineers and astronomers.  
 
-<img width="863" height="859" alt="image" src="https://github.com/user-attachments/assets/4d0432c0-604a-4f3c-9575-13b221ca8ccf" />
+![photo_2025-01-28_23-15-52](https://github.com/user-attachments/assets/4d0432c0-604a-4f3c-9575-13b221ca8ccf)
 
 
 **Astronomy Fact:**  
