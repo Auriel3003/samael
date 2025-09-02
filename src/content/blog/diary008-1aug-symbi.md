@@ -23,6 +23,9 @@ Towards the end, we were honored with a token of appreciation from the Head of t
 
 As I reflect on the day, I feel a profound sense of gratitude for the opportunity to contribute, even in a small way, to inspiring future engineers and astronomers.  
 
+<img width="863" height="859" alt="image" src="https://github.com/user-attachments/assets/4d0432c0-604a-4f3c-9575-13b221ca8ccf" />
+
+
 **Astronomy Fact:**  
 The most distant telescope observations reveal galaxies from when the universe was just a few hundred million years old—less than 5% of its current age. Such discoveries are made possible by instruments like the James Webb Space Telescope, which uses infrared imaging to peer through cosmic dust and unveil the early history of our universe.  
 
